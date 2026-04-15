@@ -16,8 +16,8 @@ const experts = [
   },
   {
     photo: 'https://images.pexels.com/photos/5327585/pexels-photo-5327585.jpeg?auto=compress&cs=tinysrgb&w=400',
-    initials: 'AM',
-    name: 'Dr. Arjun Mehta',
+    initials: 'AS',
+    name: 'Dr. Anjali Sharma',
     title: 'Lifestyle Medicine Specialist',
     years: '12 Years Experience',
     credentials: 'MBBS, Diploma in Yoga Medicine, Certified Lifestyle Medicine Expert',
